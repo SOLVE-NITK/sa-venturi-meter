@@ -1382,9 +1382,9 @@ function gotoObservation() {
     document.getElementById("rightPinkFluidThird").style.visibility = "hidden";
     document.getElementById("leftPinkFluidForth").style.visibility = "hidden";
     document.getElementById("rightPinkFluidForth").style.visibility = "hidden";
-    document.getElementById("leftPinkFluidFifth").style.visibility = "hidden";
-    document.getElementById("rightPinkFluidFifth").style.visibility = "hidden";
-    document.getElementById("bottomPinkU").style.visibility = "hidden";
+    // document.getElementById("leftPinkFluidFifth").style.visibility = "hidden";
+    // document.getElementById("rightPinkFluidFifth").style.visibility = "hidden";
+    // document.getElementById("bottomPinkU").style.visibility = "hidden";
 
     
     document.getElementById("setupButton").onclick = function() {
